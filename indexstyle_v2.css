@@ -1,0 +1,107 @@
+* {
+ margin: 0;
+ padding: 0;
+ }
+
+p {
+margin: 10px;
+border: 10px;
+padding: 10px;
+margin-left: 365px;
+
+font-size: 18px;
+width: 815px;
+line-height: 24px;
+text-align: left;
+}
+
+.logo {
+margin: 20px;
+border: 20px;
+padding: 20px;
+font-family: 'Myriad Pro';
+color:#000000;
+font-size: 60px;
+font-weight: 400;
+display: inline;
+
+}
+
+li {
+
+    display: inline;
+    margin: 20px;
+    padding: 20px;
+    border: 20px;
+    margin-left: 48px;
+    font-size: 24px;
+
+    }
+
+ nav {
+   margin: 20px;
+   border: 20px;
+   padding: 20px;
+   background-color:#35444f;
+    color:#ffffff;
+   width: 1280px;
+   height: 69px;
+   font-size: 24px;
+   display: inline-block;
+   font-family: 'Myriad Pro';
+
+}
+
+
+div {
+
+.left-picture {
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  text-align: left;
+  border: 1px solid black;
+}
+font-family: 'Myriad Pro';
+    color: #495863;
+    font-size: 26.99px;
+    line-height: 88.867px;
+    text-align: left;
+    transform: scaleY(1.0003);
+}
+
+.Lorem rus {
+font-family: 'Myriad Pro';
+margin: 20px;
+ padding: 10px;
+ border: 1 px strong red;
+ margin_left: 48px;
+ font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+.Lorem eng {
+font-family: 'Myriad Pro';
+margin: 20px;
+ padding: 10px;
+ color: #2c2b2b;
+ font-size: 18px;
+ font-weight: 400;
+ line-height: 24px;
+ text-align: left;
+
+}
+
+footer {
+.Footer{
+ font-family: 'Myriad Pro';
+  color:#0c1927;
+  width: 1280px;
+  line-height: 90px;
+  font-weight: 400;
+  font-size: 28px;
+  text-align: left;
+  }
+
